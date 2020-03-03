@@ -42,6 +42,8 @@
 
 ### Create a JavaScript file, and link it up
 
+*it's going to be all about your js file*
+
 #### Using JavaScript:
 
   - Change the font-family of the page to `"Arial, sans-serif"`
