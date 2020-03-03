@@ -103,7 +103,7 @@ _________________________
 ### Bonus
 
 - Remove the list bullet points from your lists
-- Add the book cover image. For each book, add an `img` element for each book on the page
+- Add the book cover image. For each book, add an `img` element on the page
 - Change the style of the book depending on whether you have read it or not (e.g. make the text color red if you have read it)
 
 ---
