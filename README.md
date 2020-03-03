@@ -96,6 +96,7 @@ var books = [
   - Create an `h1` with the text of "My Book List", and put it inside `div.favoriteBooks`
   - Iterate through the array of books.
   - For each book, create a `p` tag with the book title and author (e.g. "The Most Human Human, by Brian Christian"). Append it to the page
+  - On click : remove the `p` tag with the book's title and author . 
 _________________________
   
 
