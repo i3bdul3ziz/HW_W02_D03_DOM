@@ -49,9 +49,11 @@
   - Change the font-family of the page to `"Arial, sans-serif"`
   - Change the alignment of the page to `'center'`
   - Replace each of the `span` tags (nickname, favorite, hometown) with your own information (e.g. put your nickname in the nickname span)
-  - Give each `li` the class of `"listitem"`
-  - Change each `li`'s text color to `"dodgerblue"`
   - Create a new `img` element and set its `src` attribute to a picture of your favorite show or movie. Put that new `img` element in the div with the class of `"profilePicture"`
+  
+  - Give each `li` the class of `"listitem"`
+  - On click : change each `li`'s text color to `"dodgerblue"`
+  - If the `li` is already `"dodgerblue"` , change it to red 
 
 ## The Book List
 
@@ -92,7 +94,8 @@ var books = [
 #### In your JavaScript file:
 
   - Create an `h1` with the text of "My Book List", and put it inside `div.favoriteBooks`
-  - Iterate through the array of books. For each book, create a `p` tag with the book title and author (e.g. "The Most Human Human, by Brian Christian"). Append it to the page
+  - Iterate through the array of books.
+  - For each book, create a `p` tag with the book title and author (e.g. "The Most Human Human, by Brian Christian"). Append it to the page
 _________________________
   
 
