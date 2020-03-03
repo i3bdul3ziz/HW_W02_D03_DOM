@@ -149,7 +149,7 @@ Start of with the following HTML:
 
 </html>
 ```
-
+>Note: https://www.w3schools.com/jsref/prop_text_value.asp
 - Create and link a JavaScript file
 - When someone clicks `button#randomize`:
   - Create an `img` element
