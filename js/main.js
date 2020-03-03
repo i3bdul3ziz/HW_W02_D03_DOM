@@ -36,6 +36,16 @@ let body = document.body
 body.style.fontFamily = "Arial, sans-serif"
 body.style.textAlign = "center"
 
+
+let nickname = document.querySelector("#nickname");
+nickname.textContent = "Abdulaziz"
+
+let favorite = document.querySelector("#favorite");
+favorite.textContent = "Cats, Parrots";
+
+let hometown = document.querySelector("#hometown");
+hometown.textContent = "Taif";
+
 var listItems = document.querySelectorAll("ul li");
 
 
