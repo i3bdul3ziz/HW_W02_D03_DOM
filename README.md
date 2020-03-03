@@ -154,8 +154,6 @@ Start of with the following HTML:
 
 ## Bonuses
 
-Be as creative as you want ! add your own styling , more information about your favorite things ~ ! 
-
 ### Bonus 1
 
 Allow the user to select the width and the height!
